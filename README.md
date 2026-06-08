@@ -1,4 +1,4 @@
-Olá! Eu sou Natan Oliveira 👋
+# Olá! Eu sou Natan Oliveira 👋
 
 🎓 Estudante de Tecnologia
 
@@ -6,47 +6,41 @@ Olá! Eu sou Natan Oliveira 👋
 
 🚀 Atualmente trabalhando em:
 
-Nosso Caixa - Sistema de controle financeiro para casais
-Assistente IA para atendimento
-Projetos web personalizados
-Tecnologias
-HTML
-CSS
-JavaScript
-Git
-GitHub
-Projetos em destaque
-Nosso Caixa
+* Nosso Caixa – Sistema de controle financeiro para casais
+* Assistente IA para atendimento
+* Projetos web personalizados
 
-Sistema financeiro para casais com controle de despesas, metas e contas fixas.
+## Tecnologias
 
-Assistente IA
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
 
-Chatbot desenvolvido para atendimento automatizado.
+## Projetos em destaque
 
-Site Dia dos Namorados
+###  Nosso Caixa
 
-Projeto front-end focado em experiência do usuário e design responsivo.
+Sistema financeiro para casais com controle de receitas, despesas, metas financeiras e contas fixas.
 
-Contato
+###  Assistente IA
 
-📧 natan_aru@hotmail.com
+Chatbot desenvolvido para atendimento automatizado e respostas rápidas.
 
-55 48 999959046
+###  Site Dia dos Namorados
 
-🔗 GitHub: github.com/natanaru-dot## Hi there 👋
+Projeto front-end focado em experiência do usuário, design responsivo e interatividade.
 
-<!--
-**natanaru-dot/natanaru-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Objetivos
 
-Here are some ideas to get you started:
+* Aprimorar conhecimentos em desenvolvimento web
+* Aprender banco de dados e Firebase
+* Evoluir projetos para aplicações multiusuário
+* Publicar aplicações para Android e iOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+
+📧 [natan_aru@hotmail.com](mailto:natan_aru@hotmail.com)
+
+🔗 GitHub: https://github.com/natanaru-dot
